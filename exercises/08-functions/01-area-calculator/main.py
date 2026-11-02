@@ -32,3 +32,7 @@ print("=== Area Calculator ===")
 # print(f"Rectangle (5 × 3): {rectangle_area} square units")
 
 # TODO: Add calls for circle and triangle calculations
+circle_area = calculate_circle_area(4)
+triangle_area = calculate_triangle_area(6, 8)
+print(f"Circle (radius 4): {circle_area} square units")
+print(f"Triangle (6 × 8): {triangle_area} square units")

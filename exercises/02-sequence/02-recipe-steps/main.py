@@ -6,3 +6,6 @@ Write your code below to show the steps for making a sandwich with comments.
 """
 
 # Write your code here
+print("step 1: get bread")
+print("butter the bread")
+print("add cheese")
